@@ -1,0 +1,15 @@
+@import './assets/css/all.min.css';
+@import './assets/css/animate.css';
+@import './assets/css/animated-text.css';
+@import './assets/css/flaticon.css';
+@import './assets/css/meanmenu.min.css';
+@import './assets/css/owl.carousel.min.css';
+@import './assets/css/owl.transitions.css';
+@import './assets/css/responsive.css';
+@import './assets/css/splide.min.css';
+@import './assets/css/theme-default.css';
+@import './assets/css/style.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
